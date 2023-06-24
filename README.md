@@ -1,4 +1,4 @@
-# Dungeon Crawler
+# Kanaria
 
 ## About
 
